@@ -1,6 +1,6 @@
 ### Développeuse Web Junior passionnée 
-### 🔭 Coming soon : je travaille actuellement sur le projet final de ma formation de développeur web > Street Art Hunters! Un projet fullstack, pour lequel la stack utilisé est : javascript, saas, react, node.js, MySQL, Express.
-### 🌱 Au cours de cette formation j'ai appris HTML5/ CSS3 (sass) / JAVASCRIPT (React.js, Node.js) / EXPRESS / MYSQL / DOCKER / GIT 
+#### 🔭 Coming soon : je travaille actuellement sur le projet final de ma formation de développeur web > Street Art Hunters! Un projet fullstack, pour lequel la stack utilisé est : javascript, saas, react, node.js, MySQL, Express.
+#### 🌱 Au cours de cette formation j'ai appris HTML5/ CSS3 (sass) / JAVASCRIPT (React.js, Node.js) / EXPRESS / MYSQL / DOCKER / GIT 
 
 
 <!--
