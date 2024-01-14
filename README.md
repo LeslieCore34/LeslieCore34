@@ -1,11 +1,14 @@
-### Hi there 👋
+### Développeuse Web Junior passionnée à l'écoute du marché! Je recherche une alternance de 15 mois pour ma formation de Concepteur Développeur d'Applications (niveau Bac+4) à la Wild Code School afin de développer d'avantages mes compétences en Javascript et TypeScript.
+## 🔭 Je travaille actuellement sur le projet final de ma formation de développeur web > Street Art Hunters
+## 🌱 Au cours de cette formation j'ai appris HTML5/ CSS3 (sass) / JAVASCRIPT (React.js, Node.js) / EXPRESS / MYSQL / DOCKER / GIT 
+
 
 <!--
 **LeslieCore34/LeslieCore34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
