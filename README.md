@@ -1,4 +1,4 @@
-# Développeuse Web Junior passionnée à l'écoute du marché! Je recherche une alternance de 15 mois pour ma formation de Concepteur Développeur d'Applications (niveau Bac+4) à la Wild Code School afin de développer d'avantages mes compétences en Javascript et TypeScript.
+# Développeuse Web Junior passionnée :)
 # 🔭 Je travaille actuellement sur le projet final de ma formation de développeur web > Street Art Hunters
 # 🌱 Au cours de cette formation j'ai appris HTML5/ CSS3 (sass) / JAVASCRIPT (React.js, Node.js) / EXPRESS / MYSQL / DOCKER / GIT 
 
