@@ -1,7 +1,7 @@
 ### Développeuse Web Junior passionnée 
 #### 🔭 Coming soon >> je travaille actuellement sur le projet final de ma formation de développeuse web : Street Art Hunters! Un projet fullstack pour lequel la stack utilisée est : JavaScript, Sass, React, Node.js, MySQL, et Express.
 #### 🌱 Au cours de cette formation, j'ai acquis des compétences en HTML5, CSS3 (Sass), JavaScript (React.js, Node.js), Express, MySQL, Docker, et Git.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node.js,express,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node,express,mysql,docker,git)](https://skillicons.dev)
 
 <!--
 **LeslieCore34/LeslieCore34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
