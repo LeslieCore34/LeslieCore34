@@ -1,6 +1,6 @@
 ### Développeuse Web Junior passionnée 
-#### 🔭 Coming soon >> je travaille actuellement sur le projet final de ma formation de développeuse web : Street Art Hunters! Un projet fullstack pour lequel la stack utilisée est : JavaScript, Sass, React, Node.js, MySQL, et Express.
-#### 🌱 Au cours de cette formation, j'ai acquis des compétences en HTML5, CSS3 (Sass), JavaScript (React.js, Node.js), Express, MySQL, Docker, et Git.
+#### 🔭 Je travaille actuellement sur le projet final de ma formation de développeuse web : Street Art Hunters! Un projet fullstack qui vous invite à capturer un maximum de photos des plus beaux street-art de bordeaux.
+### My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,docker,git)](https://skillicons.dev)
 
 <!--
