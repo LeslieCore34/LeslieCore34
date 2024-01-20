@@ -1,6 +1,5 @@
-### Développeuse Web Junior passionnée 
-#### 🔭 Je travaille actuellement sur le projet final de ma formation de développeuse web : Street Art Hunters! Un projet fullstack qui vous invite à capturer un maximum de photos des plus beaux street-art de bordeaux.
-### My Tech Stack:
+### Junior Web Developer
+#### 🌱 Currently working on the final project of my web development training: Street Art Hunters! A full-stack project inviting you to capture photos of the most beautiful street art in Bordeaux.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,docker,git)](https://skillicons.dev)
 
 <!--
