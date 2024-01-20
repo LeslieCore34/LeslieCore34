@@ -1,8 +1,8 @@
-### Junior Web Developer
+### <p align="center">Junior Web Developer</p>
 
 #### 🌱 Currently working on the final project of my web development training: Street Art Hunters! A full-stack project inviting you to capture photos of the most beautiful street art in Bordeaux.
 
-### <p align="center">My skills include</p>
+### My skills include
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,docker,git)](https://skillicons.dev)
 
