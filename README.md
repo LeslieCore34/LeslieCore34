@@ -4,7 +4,7 @@
 
 #### <p align="center">My skills include</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,docker,git)](https://skillicons.dev)
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,docker,git)](https://skillicons.dev)</p>
 
 <!--
 **LeslieCore34/LeslieCore34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
